@@ -4,7 +4,7 @@
     "url": "https://api-alexa.pvpcraft.cz/",
     "icon": "https://favicons.githubusercontent.com/api-alexa.pvpcraft.cz",
     "slug": "alexa-render-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
@@ -16,6 +16,7 @@
     "timeMonth": 620,
     "timeYear": 609,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-14": 32,
       "2022-05-28": 17,
       "2022-05-27": 35
