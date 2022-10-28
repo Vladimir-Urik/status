@@ -3,11 +3,11 @@ owner: Vladimir-Urik # Your GitHub organization or username, where this reposito
 repo: status # The name of this repository
 
 sites:
-  - name: "Fleeb's API"
+  - name: "Fleebs-API"
     url: "https://api.fleebs.gg/"
-  - name: "Fleeb's Website"
+  - name: "Fleebs-Website"
     url: "https://fleebs.gg/"
-  - name: "Fleeb's Bin"
+  - name: "Fleebs-Bin"
     url: "https://bin.fleebs.gg/"
   - name: "Zadanie"
     url: "https://zadanie-urik.vercel.app/"
