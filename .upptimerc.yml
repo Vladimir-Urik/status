@@ -11,6 +11,10 @@ sites:
     url: "https://bin.fleebs.gg/"
   - name: "Zadanie"
     url: "https://zadanie-urik.vercel.app/"
+  - name: "Portfolio"
+    url: "https://gggedr.lol/"
+  - name: "Portfolio API"
+    url: "https://api.gggedr.lol/projects"
 
 status-website:
   theme: dark
