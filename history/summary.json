@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 486,
-    "timeDay": 557,
-    "timeWeek": 489,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "time": 485,
+    "timeDay": 507,
+    "timeWeek": 485,
+    "timeMonth": 485,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2022-10-28": 2
     }
@@ -31,32 +31,12 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 459,
-    "timeDay": 481,
-    "timeWeek": 447,
+    "timeDay": 470,
+    "timeWeek": 449,
     "timeMonth": 459,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2022-10-28": 2
-    }
-  },
-  {
-    "name": "Fleebs-Bin",
-    "url": "https://bin.fleebs.gg/",
-    "icon": "https://icons.duckduckgo.com/ip3/bin.fleebs.gg.ico",
-    "slug": "fleebs-bin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 360,
-    "timeWeek": 418,
-    "timeMonth": 457,
-    "timeYear": 457,
-    "dailyMinutesDown": {
-      "2022-11-21": 0
     }
   },
   {
@@ -71,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 240,
-    "timeWeek": 145,
-    "timeMonth": 463,
+    "timeDay": 202,
+    "timeWeek": 147,
+    "timeMonth": 455,
     "timeYear": 255,
     "dailyMinutesDown": {}
   },
@@ -82,19 +62,19 @@
     "url": "https://gggedr.lol/",
     "icon": "https://icons.duckduckgo.com/ip3/gggedr.lol.ico",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 454,
-    "timeWeek": 491,
-    "timeMonth": 506,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "98.32%",
+    "uptimeDay": "87.83%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
+    "time": 504,
+    "timeDay": 465,
+    "timeWeek": 490,
+    "timeMonth": 504,
+    "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-11-21": 0
+      "2022-11-21": 175
     }
   },
   {
@@ -102,19 +82,19 @@
     "url": "https://api.gggedr.lol/projects",
     "icon": "https://icons.duckduckgo.com/ip3/api.gggedr.lol.ico",
     "slug": "portfolio-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 509,
-    "timeWeek": 475,
-    "timeMonth": 482,
-    "timeYear": 482,
+    "status": "up",
+    "uptime": "98.32%",
+    "uptimeDay": "87.82%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "98.32%",
+    "time": 490,
+    "timeDay": 532,
+    "timeWeek": 487,
+    "timeMonth": 490,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2022-11-21": 0
+      "2022-11-21": 175
     }
   }
 ]
