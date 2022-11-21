@@ -7,8 +7,6 @@ sites:
     url: "https://api.fleebs.gg/"
   - name: "Fleebs-Website"
     url: "https://fleebs.gg/"
-  - name: "Fleebs-Bin"
-    url: "https://bin.fleebs.gg/"
   - name: "Zadanie"
     url: "https://zadanie-urik.vercel.app/"
   - name: "Portfolio"
