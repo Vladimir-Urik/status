@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 486,
     "timeDay": 557,
-    "timeWeek": 475,
+    "timeWeek": 489,
     "timeMonth": 486,
     "timeYear": 486,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.99%",
     "time": 459,
     "timeDay": 481,
-    "timeWeek": 461,
+    "timeWeek": 447,
     "timeMonth": 459,
     "timeYear": 459,
     "dailyMinutesDown": {
@@ -44,18 +44,20 @@
     "url": "https://bin.fleebs.gg/",
     "icon": "https://icons.duckduckgo.com/ip3/bin.fleebs.gg.ico",
     "slug": "fleebs-bin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 506,
-    "timeWeek": 480,
-    "timeMonth": 465,
-    "timeYear": 465,
-    "dailyMinutesDown": {}
+    "time": 457,
+    "timeDay": 360,
+    "timeWeek": 418,
+    "timeMonth": 457,
+    "timeYear": 457,
+    "dailyMinutesDown": {
+      "2022-11-21": 0
+    }
   },
   {
     "name": "Zadanie",
@@ -70,7 +72,7 @@
     "uptimeYear": "100.00%",
     "time": 255,
     "timeDay": 240,
-    "timeWeek": 121,
+    "timeWeek": 145,
     "timeMonth": 463,
     "timeYear": 255,
     "dailyMinutesDown": {}
@@ -80,35 +82,39 @@
     "url": "https://gggedr.lol/",
     "icon": "https://icons.duckduckgo.com/ip3/gggedr.lol.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 609,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
-    "dailyMinutesDown": {}
+    "time": 506,
+    "timeDay": 454,
+    "timeWeek": 491,
+    "timeMonth": 506,
+    "timeYear": 506,
+    "dailyMinutesDown": {
+      "2022-11-21": 0
+    }
   },
   {
     "name": "Portfolio API",
     "url": "https://api.gggedr.lol/projects",
     "icon": "https://icons.duckduckgo.com/ip3/api.gggedr.lol.ico",
     "slug": "portfolio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 568,
-    "timeWeek": 485,
-    "timeMonth": 485,
-    "timeYear": 485,
-    "dailyMinutesDown": {}
+    "time": 482,
+    "timeDay": 509,
+    "timeWeek": 475,
+    "timeMonth": 482,
+    "timeYear": 482,
+    "dailyMinutesDown": {
+      "2022-11-21": 0
+    }
   }
 ]
