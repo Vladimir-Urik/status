@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 561,
-    "timeWeek": 482,
-    "timeMonth": 600,
-    "timeYear": 548,
+    "time": 545,
+    "timeDay": 333,
+    "timeWeek": 467,
+    "timeMonth": 593,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2022-10-28": 2
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 550,
-    "timeWeek": 452,
-    "timeMonth": 452,
-    "timeYear": 454,
+    "time": 453,
+    "timeDay": 388,
+    "timeWeek": 453,
+    "timeMonth": 448,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2022-10-28": 2
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 97,
-    "timeWeek": 194,
+    "time": 240,
+    "timeDay": 45,
+    "timeWeek": 191,
     "timeMonth": 171,
-    "timeYear": 241,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   },
   {
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gggedr.lol.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "99.63%",
-    "time": 538,
-    "timeDay": 738,
-    "timeWeek": 513,
-    "timeMonth": 544,
-    "timeYear": 538,
+    "uptimeYear": "99.64%",
+    "time": 540,
+    "timeDay": 645,
+    "timeWeek": 549,
+    "timeMonth": 542,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2022-11-21": 175
     }
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gggedr.lol.ico",
     "slug": "portfolio-api",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "99.63%",
-    "time": 490,
-    "timeDay": 644,
-    "timeWeek": 513,
-    "timeMonth": 495,
-    "timeYear": 490,
+    "uptimeYear": "99.64%",
+    "time": 494,
+    "timeDay": 676,
+    "timeWeek": 556,
+    "timeMonth": 499,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2022-11-21": 175
     }
