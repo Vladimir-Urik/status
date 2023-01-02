@@ -83,9 +83,9 @@
     "url": "https://api.gggedr.lol/projects",
     "icon": "https://icons.duckduckgo.com/ip3/api.gggedr.lol.ico",
     "slug": "portfolio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.72%",
@@ -95,6 +95,7 @@
     "timeMonth": 488,
     "timeYear": 499,
     "dailyMinutesDown": {
+      "2023-01-02": 0,
       "2022-12-27": 20,
       "2022-11-21": 175
     }
