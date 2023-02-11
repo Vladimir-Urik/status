@@ -44,19 +44,19 @@
     "url": "https://zadanie-urik.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/zadanie-urik.vercel.app.ico",
     "slug": "zadanie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 210,
-    "timeDay": 124,
-    "timeWeek": 121,
-    "timeMonth": 117,
+    "timeDay": 111,
+    "timeWeek": 117,
+    "timeMonth": 116,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-02-11": 0
+      "2023-02-11": 59
     }
   },
   {
