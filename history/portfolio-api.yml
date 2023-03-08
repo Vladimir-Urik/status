@@ -1,7 +1,7 @@
 url: https://api.gggedr.lol/projects
-status: down
-code: 502
-responseTime: 484
-lastUpdated: 2023-03-07T23:09:42.683Z
+status: up
+code: 200
+responseTime: 567
+lastUpdated: 2023-03-08T07:56:24.713Z
 startTime: Mon Nov 14 2022 10:55:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
